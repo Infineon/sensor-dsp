@@ -1,0 +1,12 @@
+\form#0:$w$
+\form#1:$N$
+\form#2:\[ w_n = \mathrm{0.42} - 0.5 \cos\left( \frac{2\pi n}{N-1} \right) + 0.08 \cos\left( \frac{4\pi n}{N-1} \right),\qquad \mathrm{0} \le\ n < \mathrm{N} \]
+\form#3:$ N $
+\form#4:$ N*sizeof(float32_t) $
+\form#5:\[ w_n = \mathrm{a_0} - \mathrm{a_1} \cos\left( \frac{2\pi n}{N-1} \right) + \mathrm{a_2} \cos\left( \frac{4\pi n}{N-1} \right) - \mathrm{a_3} \cos\left( \frac{6\pi n}{N-1} \right),\qquad \mathrm{0} \le\ n < \mathrm{N} \]
+\form#6:$\mathrm{a}_0$
+\form#7:$\mathrm{a}_1$
+\form#8:$\mathrm{a}_2$
+\form#9:$\mathrm{a}_3$
+\form#10:\[ w_n = \mathrm{0.54} - \mathrm{0.46} \cos\left( \frac{2\pi n}{N-1}\right), \qquad \mathrm{0} \le\ n < \mathrm{N} \]
+\form#11:\[ w_n = \mathrm{0.5} \left(\mathrm{1} - \cos\left( \frac{2\pi n}{N-1} \right)\right),\qquad \mathrm{0} \le\ n < \mathrm{N} \]
