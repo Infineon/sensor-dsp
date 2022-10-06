@@ -1,10 +1,12 @@
-# Sensor-DSP Library 0.5.0
+# Sensor-DSP Library 0.5.1
 
 ## What's Included?
 
 Refer to the [README.md](./README.md) and the [API Reference Guide](https://cypresssemiconductorco.github.io/sensor-dsp/html/index.html) for a complete description of the Sensor-DSP library.
 
 ## What Changed?
+#### v0.5.1
+* Minor updates to documentation
 #### v0.5.0
 * Initial release
 

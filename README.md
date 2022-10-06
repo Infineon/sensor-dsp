@@ -18,7 +18,7 @@ The Sensor-DSP library provides signal processing functions required to support 
 
 ## Quick Start
 
-Refer to the [API Reference Guide Quick Start Guide](https://cypresssemiconductorco.github.io/sensor-dsp/html/index.html) section for step-by-step instruction how to enable the Sensor-DSP Library.
+Refer to the [API Reference Guide Quick Start Guide](https://infineon.github.io/sensor-dsp/html/index.html) section for step-by-step instruction how to enable the Sensor-DSP Library.
 
 ## Building for speed
 
@@ -57,7 +57,7 @@ Refer to [Compilation symbols for tables](https://github.com/ARM-software/CMSIS-
 
 For more information, refer to the following documents:
 
-* [Sensor-DSP API Reference Guide](https://cypresssemiconductorco.github.io/sensor-dsp/html/index.html)
+* [Sensor-DSP API Reference Guide](https://infineon.github.io/sensor-dsp/html/index.html)
 * [ModusToolbox&trade; Software Environment, Quick Start Guide, Documentation, and Videos](https://www.infineon.com/cms/en/design-support/tools/sdk/modustoolbox-software)
 * [PSoC 6 Technical Reference Manuals](https://www.infineon.com/cms/en/search.html#!term=PSOC%206%20%20Technical%20Reference%20Manual&view=downloads)
 * [PSoC 6 Programmable System-on-Chip datasheets](https://www.infineon.com/cms/en/search.html#!term=PSOC%206%20%20Datasheet&view=downloads)
