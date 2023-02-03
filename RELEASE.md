@@ -1,10 +1,12 @@
-# Sensor-DSP Library 0.5.2
+# Sensor-DSP Library 1.0.0
 
 ## What's Included?
 
 Refer to the [README.md](./README.md) and the [API Reference Guide](https://infineon.github.io/sensor-dsp/html/index.html) for a complete description of the Sensor-DSP library.
 
 ## What Changed?
+#### v1.0.0
+* Minor updates to documentation
 #### v0.5.2
 * Minor updates to documentation and license
 #### v0.5.1
